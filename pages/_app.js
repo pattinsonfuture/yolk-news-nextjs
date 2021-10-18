@@ -4,8 +4,8 @@ import { ChakraProvider, extendTheme } from '@chakra-ui/react';
 
 const theme = extendTheme({
   fonts: {
-    heading: 'Noto Sans Traditional Chinese',
-    body: 'Noto Sans Traditional Chinese',
+    heading: 'Poppins',
+    body: 'Poppins',
   },
 });
 
